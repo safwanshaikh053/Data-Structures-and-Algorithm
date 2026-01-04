@@ -30,15 +30,10 @@ The goal of this repo is to build strong problem-solving skills, improve logic, 
 ---
 
 ## 🛠️ Languages / Tools Used
-- C / C++ / Java / (or whichever you will use — update as needed)
-- IDE / Code Editor: VS Code / Dev C++ / IntelliJ / Eclipse
+- Java
+- IDE : Eclipse
 
 ---
 
-## 📁 Folder Structure
-Each topic contains:
-- Concept Explanation
-- Implementation Code
-- Example Problems
-- Practice Exercises
+
 
